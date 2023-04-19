@@ -1,3 +1,88 @@
+@font-face {
+	font-family: 'Roobert';
+	font-style: normal;
+	font-weight: 400;
+	src: url('../fonts/RoobertRegular.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Roobert';
+	font-style: italic;
+	font-weight: 400;
+	src: url('../fonts/RoobertRegularItalic.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Roobert';
+	font-style: normal;
+	font-weight: 200;
+	src: url('../fonts/RoobertLight.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Roobert';
+	font-style: italic;
+	font-weight: 200;
+	src: url('../fonts/RoobertLightItalic.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Roobert';
+	font-style: normal;
+	font-weight: 500;
+	src: url('../fonts/RoobertMedium.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Roobert';
+	font-style: italic;
+	font-weight: 500;
+	src: url('../fonts/RoobertMediumItalic.woff') format('woff');
+}
+
+
+@font-face {
+	font-family: 'Roobert';
+	font-style: normal;
+	font-weight: 600;
+	src: url('../fonts/RoobertSemiBold.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Roobert';
+	font-style: italic;
+	font-weight: 600;
+	src: url('../fonts/RoobertSemiBoldItalic.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Roobert';
+	font-style: normal;
+	font-weight: 700;
+	src: url('../fonts/RoobertBold.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Roobert';
+	font-style: italic;
+	font-weight: 700;
+	src: url('../fonts/RoobertBoldItalic.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Roobert';
+	font-style: normal;
+	font-weight: 800;
+	src: url('../fonts/RoobertHeavy.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Roobert';
+	font-style: italic;
+	font-weight: 800;
+	src: url('../fonts/RoobertHeavyItalic.woff') format('woff');
+}
+
 :root {
     --blue: #0d6efd;
     --indigo: #a425fe;
