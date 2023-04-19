@@ -2,42 +2,42 @@
 	font-family: 'Roobert';
 	font-style: normal;
 	font-weight: 400;
-	src: url('https://cdn.jsdelivr.net/gh/nitrowo/roobert-cdn@latest/RoobertRegular.woff') format('woff');
+	src: url('./RoobertRegular.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Roobert';
 	font-style: italic;
 	font-weight: 400;
-	src: url('https://cdn.jsdelivr.net/gh/nitrowo/roobert-cdn@latest/RoobertRegularItalic.woff') format('woff');
+	src: url('./RoobertRegularItalic.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Roobert';
 	font-style: normal;
 	font-weight: 200;
-	src: url('https://cdn.jsdelivr.net/gh/nitrowo/roobert-cdn@latest/RoobertLight.woff') format('woff');
+	src: url('./RoobertLight.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Roobert';
 	font-style: italic;
 	font-weight: 200;
-	src: url('https://cdn.jsdelivr.net/gh/nitrowo/roobert-cdn@latest/RoobertLightItalic.woff') format('woff');
+	src: url('./RoobertLightItalic.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Roobert';
 	font-style: normal;
 	font-weight: 500;
-	src: url('https://cdn.jsdelivr.net/gh/nitrowo/roobert-cdn@latest/RoobertMedium.woff') format('woff');
+	src: url('./RoobertMedium.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Roobert';
 	font-style: italic;
 	font-weight: 500;
-	src: url('https://cdn.jsdelivr.net/gh/nitrowo/roobert-cdn@latest/RoobertMediumItalic.woff') format('woff');
+	src: url('./RoobertMediumItalic.woff') format('woff');
 }
 
 
@@ -45,40 +45,40 @@
 	font-family: 'Roobert';
 	font-style: normal;
 	font-weight: 600;
-	src: url('https://cdn.jsdelivr.net/gh/nitrowo/roobert-cdn@latest/RoobertSemiBold.woff') format('woff');
+	src: url('./RoobertSemiBold.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Roobert';
 	font-style: italic;
 	font-weight: 600;
-	src: url('https://cdn.jsdelivr.net/gh/nitrowo/roobert-cdn@latest/RoobertSemiBoldItalic.woff') format('woff');
+	src: url('./RoobertSemiBoldItalic.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Roobert';
 	font-style: normal;
 	font-weight: 700;
-	src: url('https://cdn.jsdelivr.net/gh/nitrowo/roobert-cdn@latest/RoobertBold.woff') format('woff');
+	src: url('./RoobertBold.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Roobert';
 	font-style: italic;
 	font-weight: 700;
-	src: url('https://cdn.jsdelivr.net/gh/nitrowo/roobert-cdn@latest/RoobertBoldItalic.woff') format('woff');
+	src: url('./RoobertBoldItalic.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Roobert';
 	font-style: normal;
 	font-weight: 800;
-	src: url('https://cdn.jsdelivr.net/gh/nitrowo/roobert-cdn@latest/RoobertHeavy.woff') format('woff');
+	src: url('./RoobertHeavy.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Roobert';
 	font-style: italic;
 	font-weight: 800;
-	src: url('https://cdn.jsdelivr.net/gh/nitrowo/roobert-cdn@latest/RoobertHeavyItalic.woff') format('woff');
+	src: url('./RoobertHeavyItalic.woff') format('woff');
 }
